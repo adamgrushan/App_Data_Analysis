@@ -1,3 +1,4 @@
 -- SQLite
 SELECT *
-FROM `A01_Google_Play_Store`;
+FROM `A02_Apple_Store`
+ORDER BY rating_count_tot DESC
